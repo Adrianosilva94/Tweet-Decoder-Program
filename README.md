@@ -1,1 +1,2 @@
 # Tweet-Decoder-Program
+This program was developed to decode abbreviations from tweeter. First the user inserts (input) a complete tweet with limit of 160 characters in a single line. If the input lengh is bigger than 160 characters, the program will display an error message. Next, the program analize the input and prints a list of abreviations found if any. Ultimately, the program prints a decoded version of the tweet inserted.
